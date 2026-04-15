@@ -1,0 +1,15 @@
+pertama import dulu file database yang ada difolder database,
+setelah selesai silahkan langsung masuk ke localhost dan masuk ke file web ini,
+
+catatan,
+login multi
+
+untuk pelanggan
+username :user
+password :user
+
+untuk admin
+username : admin
+password : admin
+
+sekian terima kasih.
